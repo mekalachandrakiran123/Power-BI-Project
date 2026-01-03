@@ -23,7 +23,7 @@ Total Records: 7,043 customers
 
 Total Features: 21 columns
 
-Key Data Categories:
+### Key Data Categories:
 
 Customer Profile: Senior citizen, partner, dependents
 
@@ -35,7 +35,7 @@ Financials: Monthly charges, total charges
 
 Target Variable: Churn (Yes / No)
 
-🧹 Data Preparation & Cleaning
+### Data Preparation & Cleaning
 
 The following steps were performed to ensure data quality:
 
@@ -49,8 +49,8 @@ Verified duplicate records (none found)
 
 Ensured clean, structured data for accurate analysis
 
-📊 Dashboard & Visualizations
-1️⃣ Overview Dashboard
+### Dashboard & Visualizations
+####  Overview Dashboard
 
 KPI Cards:
 
@@ -66,7 +66,7 @@ Bar Chart: Churn by contract type
 
 Insight: Month-to-month customers churn the most
 
-2️⃣ Service Secrets (Internet & Tech)
+#### Service Secrets (Internet & Tech)
 
 Matrix: Churn by Internet Service Type
 
@@ -80,7 +80,7 @@ Fiber optic users show the highest churn
 
 Customers without tech support leave more frequently
 
-3️⃣ Money & Loyalty (Billing Analysis)
+#### Money & Loyalty (Billing Analysis)
 
 Line Chart: Churn by customer tenure
 
@@ -94,37 +94,37 @@ New customers (<6 months) churn the most
 
 Electronic check users show higher churn rates
 
-🔍 Key Drivers of Customer Churn
+#### Key Drivers of Customer Churn
 
-Overall churn rate: 26.54%
+##### Overall churn rate: 26.54%
 
-Month-to-month contracts are high risk
+##### Month-to-month contracts are high risk
 
 First-year customers need immediate retention strategies
 
-Fiber optic service dissatisfaction
+##### Fiber optic service dissatisfaction
 
 Electronic check payment method has high churn
 
 Automatic payments improve customer loyalty
 
-Long-term contracts significantly reduce churn
+##### Long-term contracts significantly reduce churn
 
-💡 Applications & Recommendations
+###  Applications & Recommendations
 
-Encourage long-term contracts with incentives
+##### Encourage long-term contracts with incentives
 
 Provide free or discounted tech support
 
 Improve onboarding experience for new customers
 
-Offer loyalty discounts to high-paying customers
+##### Offer loyalty discounts to high-paying customers
 
-Promote automatic payment methods
+##### Promote automatic payment methods
 
 Use churn dashboards for proactive retention strategies
 
-🏁 Conclusion
+### Conclusion
 
 Data-driven insights help reduce customer churn
 
@@ -136,7 +136,7 @@ Power BI dashboards enable proactive churn prediction
 
 Retaining customers saves cost and increases revenue
 
-👤 Project Contributors
+### Author
 
 Mekala Chandra Kiran
 
